@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [PageTriage](https://www.mediawiki.org/wiki/Extension:PageTriage)
 
-- 🤝 I’m looking for help with [PageTriage](https://www.mediawiki.org/wiki/Extension:PageTriage)
-
 - 💬 Ask me about **Javascript/Vuejs, PHP/Laravel, Python/Django, C/C++ and Docker/Docker Compose**
 
 - 📫 How to reach me **developer.oduwa@gmail.com, obamwonyioduwa@gmail.com, destiny.obamwonyi@eng.uniben.edu**
