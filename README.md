@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Web Application For The Computer Engineering Department Community, University Of Benin.
 
-- 🌱 I’m currently learning [ROS2](https://www.ros.org/)
+- 🌱 I’m currently learning [ROS2](https://www.ros.org/), [Gazebo](https://gazebosim.org/home), and Robotics as a whole.
 
 - 👯 I’m looking to collaborate on [Open Robotics](https://www.openrobotics.org/), [WikiMedia](https://www.wikimedia.org/), and  [Linux Foundation](https://lfx.linuxfoundation.org/) projects
 
