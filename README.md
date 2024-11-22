@@ -69,8 +69,8 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-    <a href="https://docs.ros.org/en/iron/index.html" target="_blank" rel="noreferrer"> 
-    <img src="./Icons/iron-small.png" alt="arduino" width="40" height="40"/> 
+    <a href="https://docs.ros.org/en/jazzy/Installation.html" target="_blank" rel="noreferrer"> 
+    <img src="./Icons/jazzy.png" alt="ros jazzy image" width="40" height="40"/> 
   </a> 
 
 
