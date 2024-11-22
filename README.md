@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Open Robotics](https://www.openrobotics.org/), [WikiMedia](https://www.wikimedia.org/), and  [Linux Foundation](https://lfx.linuxfoundation.org/) projects
 
-- 📫 How to reach me **developer.oduwa@gmail.com, obamwonyioduwa@gmail.com, destiny.obamwonyi@eng.uniben.edu**
+- 📫 How to reach me **developer.oduwa@gmail.com, obamwonyioduwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
