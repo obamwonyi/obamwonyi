@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Web Application For The Computer Engineering Department Community, University Of Benin.
 
-- 🌱 I’m currently learning [ROS2](https://www.ros.org/), [Gazebo](https://gazebosim.org/home), and Robotics as a whole.
+- 🌱 I’m currently learning [ROS2](https://www.ros.org/), [Gazebo](https://gazebosim.org/home), [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview?term=1-YEAR&tab=subscription) and Robotics as a whole.
 
 - 👯 I’m looking to collaborate on [Open Robotics](https://www.openrobotics.org/), [WikiMedia](https://www.wikimedia.org/), and  [Linux Foundation](https://lfx.linuxfoundation.org/) projects
 
@@ -73,8 +73,6 @@
     <img src="./Icons/jazzy.png" alt="ros jazzy image" width="40" height="40"/> 
   </a> 
 
-
-
 <!-------------------------------------------------------------->
 <!--
 <h3 align="left">Operating Systems</h3>
@@ -84,8 +82,6 @@
     <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
     <img src="./Icons/microsoft-windows-22.svg" alt="linux" width="40" height="40"/> 
   </a> -->
-
-
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obamwonyi&show_icons=true&locale=en&layout=compact" alt="obamwonyi" /></p>
