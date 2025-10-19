@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obamwonyi" alt="obamwonyi" /></a> </p>
 
-- 🔭 I’m currently working on a Web Application For The Computer Engineering Department Community, University Of Benin.
-
 - 🌱 I’m currently learning [ROS2](https://www.ros.org/), [Gazebo](https://gazebosim.org/home), [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview?term=1-YEAR&tab=subscription) and Robotics as a whole.
 
 - 👯 I’m looking to collaborate on [Open Robotics](https://www.openrobotics.org/), [WikiMedia](https://www.wikimedia.org/), and  [Linux Foundation](https://lfx.linuxfoundation.org/) projects
